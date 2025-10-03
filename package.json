@@ -1,0 +1,21 @@
+{
+  "name": "devops-pipelines",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "run": "node index.js",
+    "test": "node test.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ayushsaini7717/devOps-pipelines.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ayushsaini7717/devOps-pipelines/issues"
+  },
+  "homepage": "https://github.com/ayushsaini7717/devOps-pipelines#readme",
+  "description": ""
+}
